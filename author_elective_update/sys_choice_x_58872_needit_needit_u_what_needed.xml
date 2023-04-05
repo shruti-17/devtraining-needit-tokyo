@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-26 19:39:58</sys_created_on>
+            <sys_id>7610e9851b4e21109e97eca9bc4bcb6f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>u_what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shruti_needit">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>535d77bcdb65a5500b9d21c405961989</instance_id>
+        <instance_name>dev163096</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-26 19:39:58</sys_created_on><sys_id>7610e9851b4e21109e97eca9bc4bcb6f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>u_what_needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-02-16 00:07:09</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1059333417</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>a1b31d451b0e21109e97eca9bc4bcb39</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>sredevops_usr05</sys_created_by>
+        <sys_created_on>2023-04-05 17:43:51</sys_created_on>
+        <sys_id>e639a7c11b4661109e97eca9bc4bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18752848f940000001</sys_recorded_at>
+        <sys_updated_by>sredevops_usr05</sys_updated_by>
+        <sys_updated_on>2023-04-05 17:43:51</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>2239a7c1fd4661108b5cd91aef89dc49</update_guid>
+        <update_guid_history>2239a7c1fd4661108b5cd91aef89dc49:-1059333417,ea39a7c17d466110487df160a40c5745:-28730365,2639a7c191466110ba8c5187d321e942:1082175622,6e39a7c11446611056c27f289634fe3e:1226002604,a639a7c110466110ddf1d4fc29a6393b:922272261,2e3967c19d4661102bf473460a029bf9:-2041664835,663967c1f146611015a805bc3a3228f6:-1926163950,ae3967c1c4466110325daa393ae9f5f2:-1714150243,223967c1ad466110d0bb09d5c557d9e3:-1250292699,a7102d85114e2110d35e2192644e898f:0,a3102d85ca4e2110bd9c6dcbb1391661:-488690274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sredevops_usr05</sys_created_by>
+        <sys_created_on>2023-04-05 17:43:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>62b68b2f5bec41a3b3946fac8df5a9c1</sys_id>
+        <sys_metadata>7610e9851b4e21109e97eca9bc4bcb6f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="Shruti_needit" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">5a10a9851b4e21109e97eca9bc4bcbbb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Shruti_needit">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">e639a7c11b4661109e97eca9bc4bcb49</sys_update_version>
+        <sys_updated_by>sredevops_usr05</sys_updated_by>
+        <sys_updated_on>2023-04-05 17:43:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
